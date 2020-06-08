@@ -1,0 +1,20 @@
+.players { 
+  padding: 100px 0px 50px;
+  margin-bottom: 80px;
+}
+
+.players h1 {
+  padding-top: 40px;
+  font-size: 50px;
+  font-weight: 150;
+  
+}
+
+.card {
+  margin-top: 40px;
+  margin-bottom: 30px;
+}
+
+.card h2{
+  font-size: 30px;
+}

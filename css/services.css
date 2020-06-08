@@ -1,0 +1,54 @@
+/* ***SERVICES**** */
+.services {
+  margin-bottom: 80px;
+  
+}
+.services h4 {
+  font-size: 26px;
+  font-weight: 600px;
+  margin: 50px 0 35px 0;
+}
+
+@media (min-width: 768px) {
+  .services h4 {
+    text-align: center;
+  }
+}
+
+.desktop {
+  margin-bottom: 20px;
+}
+
+@media (min-width: 768px) {
+  .description {
+    text-align: center;
+  }
+}
+
+.imgsetting {
+  border-radius: 50%;
+  height: 80px;
+  width: 80px;
+}
+
+
+  
+  /* change */
+  margin-bottom: 20px;
+}
+@media (min-width: 768px) {
+  .imgsetting {
+    margin-left: 50px;
+  }
+}
+.fa-desktop {
+  font-size: 30px;
+  margin: 20px 14px;
+}
+.fa-lock {
+  margin-top: 26px;
+}
+
+.fa-envelope-open {
+  margin-top: 26px;
+}

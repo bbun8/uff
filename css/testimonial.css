@@ -1,0 +1,23 @@
+/* *****TEAM***** */
+
+.testimonial {
+    background-color: white;
+     margin-bottom: 100px;
+   }
+   
+   .testimonial h1 {
+    
+     font-size: 40px;
+     font-weight: 150;
+     text-transform: uppercase;
+    
+   }
+   .teamsetting {
+     margin-top: 50px;
+   }  
+  
+  .testimonial {
+    width: 100%;
+  }
+  
+  

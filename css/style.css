@@ -1,0 +1,44 @@
+/* ////////////MEDIA//////////// */
+
+/* @media only screen (min-width: 992px){
+
+}
+
+@media only screen (min-width: 768px) and (max-width: 991px){
+
+}
+
+@media only screen(min-width: 575px) and (max-width: 767px){
+
+}
+
+@media only screen(min-width: 480px) and (max-width: 574px){
+
+}
+
+@media only screen(max-width: 480px){
+  
+.hearderset h2{
+    font-size: 12px;
+    text-transform: lowercase;
+
+} */
+
+/* @media screen and (min-width: 480px) {
+  .hearderset h2 {
+    font-size: 25px;
+    text-transform: uppercase;
+  }
+
+  .hearderset h1 {
+    font-size: 50px;
+    text-transform: uppercase;
+  }
+
+  .portfolio {
+    height: 1100px;
+    width: 100%;
+    padding: 100px 0px 50px;
+    margin-top: 250px;
+  }
+} */
